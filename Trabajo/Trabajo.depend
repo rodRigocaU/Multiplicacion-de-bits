@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554426938 source:d:\documentos\c++ tercer\trabajo\main.cpp
+	<iostream>
+	<bitset>
+	<vector>
+
